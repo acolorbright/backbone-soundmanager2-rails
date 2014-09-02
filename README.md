@@ -25,7 +25,7 @@ In `application.js` include this line:
 
     //= require 'backbone-soundmanager2'
 
-Then follow the instructions (here)[https://github.com/audiosocket/backbone.soundmanager2].
+Then follow the instructions [here](https://github.com/audiosocket/backbone.soundmanager2).
 
 
 ## Contributing

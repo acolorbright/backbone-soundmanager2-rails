@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "backbone-soundmanager2-rails"
   spec.version       = Backbone::Soundmanager2::Rails::VERSION
   spec.authors       = ["Philipp Bosch"]
-  spec.email         = ["hello@pb.io"]
+  spec.email         = ["philipp@acb.io"]
   spec.summary       = "backbone.soundmanager2 for Rails"
   spec.description   = "backbone.soundmanager2 packaged as a gem for use in Rails' asset pipeline"
-  spec.homepage      = "https://github.com/philippbosch/backbone-soundmanager2-rails"
+  spec.homepage      = "https://github.com/acolorbright/backbone-soundmanager2-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
